@@ -1,0 +1,22 @@
+{
+  "name": "estudo-tailwind",
+  "version": "1.0.0",
+  "description": "Repositório criado para estudar e armazenar projetos com tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfernandoalima/estudo-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisfernandoalima/estudo-tailwind/issues"
+  },
+  "homepage": "https://github.com/luisfernandoalima/estudo-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
